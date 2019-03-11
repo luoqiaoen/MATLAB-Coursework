@@ -9,6 +9,7 @@ If there is PML:
 </p>
 
 ## FEM of a strip
+I simulate the electric potential and electric field when a charged shielded microstrip is placed in a domain.
 The simple GUI with the simulated result looks like this:
 <p align="center">
   <img width="770" height="450" src="https://github.com/luoqiaoen/MATLAB-Coursework/blob/master/Numerical%20Electromagnetics/FEM.png">
