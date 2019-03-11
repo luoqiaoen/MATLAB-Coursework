@@ -23,4 +23,4 @@ You can read my report in the sub-folder [here](https://github.com/luoqiaoen/MAT
 ##### Particle Swarm Optimization and Genetic Algorithm [link](https://github.com/luoqiaoen/MATLAB-Coursework/tree/master/Optimization/pso_genetic)
 
 ## Expectation-Maximization Algorithm for Gaussian Mixture Clustering
-Results can be seen [here](https://github.com/luoqiaoen/MATLAB-Coursework/tree/master/EM%20Clustering)
+Results can be seen [here](https://github.com/luoqiaoen/MATLAB-Coursework/tree/master/EM%20Clustering).
