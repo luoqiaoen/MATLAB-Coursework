@@ -1,11 +1,11 @@
 ## FDTD of a point source surrounded by PMLs
 If there is no PML:
 <p align="center">
-  <img width="600" height="700" src="https://github.com/luoqiaoen/MATLAB-Coursework/blob/master/Numerical%20Electromagnetics/without_pml.png">
+  <img width="600" height="700" src="https://github.com/luoqiaoen/MATLAB-Coursework/blob/master/Numerical%20Electromagnetics/no_pml.png">
 </p>
 If there is PML:
 <p align="center">
-  <img width="600" height="700" src="https://github.com/luoqiaoen/MATLAB-Coursework/blob/master/Numerical%20Electromagnetics/with_pml.png">
+  <img width="600" height="700" src="https://github.com/luoqiaoen/MATLAB-Coursework/blob/master/Numerical%20Electromagnetics/pml.png">
 </p>
 
 ## FEM of a strip
