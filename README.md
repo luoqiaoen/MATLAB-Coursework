@@ -24,3 +24,8 @@ You can read my report in the sub-folder [here](https://github.com/luoqiaoen/MAT
 
 ## Expectation-Maximization Algorithm for Gaussian Mixture Clustering
 Results can be seen [here](https://github.com/luoqiaoen/MATLAB-Coursework/tree/master/EM%20Clustering).
+
+## Finite Difference Time Domain and Finite Element Method Simulations
+##### FDTD of point source with Perfectly Matched Layers
+##### FEM of a strip
+Results can be seen [here](https://github.com/luoqiaoen/MATLAB-Coursework/tree/master/Numerical Electromagnetics).
