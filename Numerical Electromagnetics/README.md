@@ -11,5 +11,5 @@ If there is PML:
 ## FEM of a strip
 The simple GUI with the simulated result looks like this:
 <p align="center">
-  <img width="534" height="594" src="https://github.com/luoqiaoen/MATLAB-Coursework/blob/master/Numerical%20Electromagnetics/FEM_result.png">
+  <img width="770" height="450" src="https://github.com/luoqiaoen/MATLAB-Coursework/blob/master/Numerical%20Electromagnetics/FEM.png">
 </p>
