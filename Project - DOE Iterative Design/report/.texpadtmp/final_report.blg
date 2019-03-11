@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: final_report.aux
+The style file: ../osa_all_auth.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ../reference.bib
+You've used 6 entries,
+            2048 wiz_defined-function locations,
+            549 strings with 4336 characters,
+and the built_in function-call counts, 1425 in all, are:
+= -- 84
+> -- 55
+< -- 0
++ -- 17
+- -- 11
+* -- 160
+:= -- 171
+add.period$ -- 6
+call.type$ -- 6
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 58
+empty$ -- 150
+format.name$ -- 17
+if$ -- 293
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 21
+num.names$ -- 6
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 64
+stack$ -- 0
+substring$ -- 174
+swap$ -- 35
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 17
+width$ -- 7
+write$ -- 32

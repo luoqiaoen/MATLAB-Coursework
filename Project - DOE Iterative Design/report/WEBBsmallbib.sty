@@ -1,0 +1,38 @@
+\renewcommand\refname{\Large References \rm} 
+
+\setlength\bibindent{.2in}
+\renewenvironment{thebibliography}[1]
+     {\vskip-.5in \section*{\refname %% \hrule before \vskip-.5in CUT 8-9-99
+        \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}}%
+      \list{\@arabic\c@enumiv .}%      \list{\@biblabel{\@arabic\c@enumiv .}}%
+           {\settowidth\labelwidth{.25in}%
+            \leftmargin\labelwidth
+  \setlength{\parsep}{-0.05in}
+  \setlength{\labelsep}{.5em}
+  \setlength{\itemsep}{0.05in}%{-0.06in}
+  \setlength{\listparindent}{0in}
+  \setlength{\itemindent}{0in}
+  \setlength{\leftmargin}{.2in}
+  \setlength{\rightmargin}{0in}
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m \footnotesize}%% \footnotesize
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist \vskip.2in}   
+\let\@openbib@code\@empty
+
+\newcommand\OEReferences{\thebibliography{}}
+\newcommand\OEReflinks{\thebibliography{}}
+\newcommand\References{\thebibliography{}}
+\let\endOEReferences\endthebibliography
+\let\endOEReflinks\endthebibliography
+\let\endReferences\endthebibliography
+

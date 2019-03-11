@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {1}\relax \fontsize {20.74}{25}\selectfont Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}\relax \fontsize {20.74}{25}\selectfont Principle of Fourier Iterative Methods}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}\relax \fontsize {20.74}{25}\selectfont Beam Shaping DOE}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}\relax \fontsize {20.74}{25}\selectfont Computer Generated Holography}{11}{chapter.4}
+\contentsline {chapter}{\numberline {5}\relax \fontsize {20.74}{25}\selectfont Conclusion}{15}{chapter.5}
+\contentsline {chapter}{Bibliography}{16}{chapter.5}
+\contentsline {chapter}{Appendix \numberline {A}MATLAB Codes}{16}{Appendix.1.A}

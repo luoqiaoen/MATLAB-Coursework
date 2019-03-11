@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Simulation of the reconstruction of 3D object using proposed computing approach.}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original image of Slice 50.}}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Sinogram generated for Slice 50}}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Reconstructed image of Slice 50.}}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Original image of Slice 68.}}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Sinogram generated for Slice 68}}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Reconstructed image of Slice 68.}}}{2}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Slices of the reconstructed tomogram}}{3}{figure.1.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {A slice of tomogram along z-axis.}}}{3}{figure.1.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {A central slice of tomogram along x-axis}}}{3}{figure.1.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {A central slice of tomogram along y-axis}}}{3}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Central slice of tomogram cutting at the middle of the projection in Fig. \ref {fig:90degree}}}{3}{figure.1.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Computation of derivation}}{3}{figure.1.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {A projection using the derivation method.}}}{3}{figure.1.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {A sinogram generated through derivation method that is more successful than Fig. \ref {fig:sinogold}}}}{3}{figure.1.4}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
