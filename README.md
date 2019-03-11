@@ -28,4 +28,4 @@ Results can be seen [here](https://github.com/luoqiaoen/MATLAB-Coursework/tree/m
 ## Finite Difference Time Domain and Finite Element Method Simulations
 ##### FDTD of point source with Perfectly Matched Layers
 ##### FEM of a strip
-Results can be seen [here](https://github.com/luoqiaoen/MATLAB-Coursework/tree/master/Numerical Electromagnetics).
+Results can be seen [here](https://github.com/luoqiaoen/MATLAB-Coursework/tree/master/Numerical%20Electromagnetics).
